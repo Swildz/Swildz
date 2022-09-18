@@ -13,6 +13,7 @@ I am currently active as a participant in SIB 2 Merdeka Campus at <a href="https
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
   <a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="21px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /></a>
   <a href="https://www.java.com/en/"><img align="left" alt="React" title="Java" width="21px" src="https://seeklogo.com/images/J/java-logo-7833D1D21A-seeklogo.com.png" /></a>
+   <a href="https://go.dev/en/"><img align="left" alt="React" title="Go" width="21px" src="https://seeklogo.com/images/G/golang-go-logo-F87103EF81-seeklogo.com.png" /></a>
   <a href="https://laravel.com/"><img align="left" alt="Laravel" title="Laravel" width="21px" src="https://seeklogo.com/images/L/laravel-logo-41EC1D4C3F-seeklogo.com.png" /></a>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img align="left" alt="C" title="C" width="21px" src="https://seeklogo.com/images/C/c-programming-language-logo-9B32D017B1-seeklogo.com.png" /></a>
   <a href="https://flutter.dev/"><img align="left" alt="Flutter" title="Flutter" width="21px" src="https://seeklogo.com/images/F/flutter-logo-5086DD11C5-seeklogo.com.png" /></a>
