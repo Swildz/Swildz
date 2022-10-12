@@ -1,6 +1,6 @@
 ### Hi! 👋 I'm Siddiq.
 
-I am a college at the Padang State Polytechnic, this year i will finish my college 
+I am a freshgraduate from Padang State Polytechnic 
 
 I am currently active as a participant in SIB 2 Merdeka Campus at <a href="https://kampusmerdeka.kemdikbud.go.id/activity/active">@dicoding</a> to learn Multi-Platform and Back-to-back Application Development. End .
 
