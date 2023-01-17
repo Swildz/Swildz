@@ -2,7 +2,7 @@
 
 I am a freshgraduate from Padang State Polytechnic 
 
-I am currently active as a participant in SIB 2 Merdeka Campus at <a href="https://kampusmerdeka.kemdikbud.go.id/activity/active">@dicoding</a> to learn Multi-Platform and Back-to-back Application Development. End .
+I am currently active as a participant in SIB 2 Merdeka Campus at <a href="https://kampusmerdeka.kemdikbud.go.id/activity/active">@dicoding</a> to learn Multi-Platform and Back-to-back Application Development and now i continue study at PENS to take Bachelor Degree. 
 
 - 🔭 I’m complete internship on <a href="https://www.1rstwap.com/">PT Firstwap International</a>
 - 🌱 I’m currently learning about Multi-Platform and Back-End Application Developer
