@@ -1,12 +1,15 @@
 ### Hi! 👋 I'm Siddiq.
 
-I am a freshgraduate from Padang State Polytechnic 
+I am a freshgraduate from Electronic Engineering Polytechnic Institute of Surabaya 
 
-I am currently active as a participant in SIB 2 Merdeka Campus at <a href="https://kampusmerdeka.kemdikbud.go.id/activity/active">@dicoding</a> to learn Multi-Platform and Back-to-back Application Development and now i continue study at PENS to take Bachelor Degree. 
+I am currently active as a staff of <a href="https://koffiesoft.com/">PT Dapur Perangkat Lunak Indonesia</a> 
 
-- 🔭 I’m complete internship on <a href="https://www.1rstwap.com/">PT Firstwap International</a>
-- 🌱 I’m currently learning about Multi-Platform and Back-End Application Developer
-- 💬 Feel free to ask me about IOT and android developer
+- Development and maintenance of the company profile web (Front-End with Vue.js and Back-End with Express.js)
+- Development and maintenance of application BadTelur
+- Setup server (VPS) and configuration with some project
+- Deployment some project (Laravel)
+- Perform network, hardware and software troubleshooting
+- Repairing CCTV, Printer and other digital devices
 - 📫 How to reach me: ahmad.siddiq559@gmail.com
 
 ### Tech Stack
